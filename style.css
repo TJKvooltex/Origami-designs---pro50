@@ -1,0 +1,70 @@
+h1{ color:blue}  
+*{border:solid}
+
+.header{
+background-color: chartreuse;
+
+display:flex;
+
+justify-content: space-between;
+}
+body{
+    background-color: #32cd32 ;
+ }
+
+.grid{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+
+.menu{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(141, 221, 217);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:400;
+    color: whitesmoke;
+    }
+    
+
+.origami{
+    flex-wrap: wrap;
+    border-radius: 20px;
+    background-color: rgb(16, 171, 199);
+    justify-content: space-between;
+    width: 310px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    } 
+
+.footer{
+display: flex;
+justify-content: flex-end;
+}
+.everything{
+background-color: chartreuse;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
